@@ -22,4 +22,10 @@ public class CalculatriceTest {
     void multTest() {
         assertEquals(4, calculatrice.mult(2, 2), "2 * 2 = 4");
     }
+
+    @Test
+    @DisplayName("2 - 1 = 1")
+    void minusTest() {
+        assertEquals(1, calculatrice.minus(2, 1), "2 - 1 = 1");
+    }
 }
