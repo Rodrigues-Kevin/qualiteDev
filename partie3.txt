@@ -1,0 +1,7 @@
+Comment interpréter ce résultat ?
+D'après ce résultat, toutes les méthodes de la classe Calculatrice fonctionnent sauf la méthode mult d'après la colonne "Missed Instructions" qui est à 0%.
+
+
+
+Que faut-il faire pour améliorer ce résultat ?
+Pour améliorer ce résultat, il faudrait réparer la méthode mult de la classe Calculatrice pour qu'ensuite toutes les méthodes fonctionnent correctement.
